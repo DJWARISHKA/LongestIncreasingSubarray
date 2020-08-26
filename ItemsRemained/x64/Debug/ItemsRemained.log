@@ -1,0 +1,3 @@
+﻿  ItemsRemained.cpp
+c:\users\накуренныйволшебник\source\repos\longestincreasingsubarray\itemsremained\itemsremained.cpp(30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ItemsRemained.vcxproj -> C:\Users\НакуренныйВолшебник\source\repos\LongestIncreasingSubarray\x64\Debug\ItemsRemained.exe
